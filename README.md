@@ -17,9 +17,13 @@ https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
 
 https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
 
+
 Instructions
 
 Download the datasets and the python file to a folder. 
+
 Open the python file, in Jupyter notebook for example.
+
 Change the user name and password of the local MySQL database. It is two times on part 5 of the notebook, one for the databse creation and anothe for the tables.
+
 Run the code. The final step launches a dashboard on a new browser window.
